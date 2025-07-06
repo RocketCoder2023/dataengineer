@@ -11,7 +11,7 @@
 # ------------------------------------------------------------------
 # Data Engineer Exercise Solution
 
-bynd_data_engineer/
+data_engineer/
 ├── data/
 │   └── mock_data.csv
 ├── pipeline/
