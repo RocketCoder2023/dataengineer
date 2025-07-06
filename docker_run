@@ -1,0 +1,5 @@
+# Build the Docker image (replace 'my-etl-pipeline' with your image name)
+docker build -t my-etl-pipeline .
+
+# Run the container
+docker run --rm my-etl-pipeline
